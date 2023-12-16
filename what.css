@@ -1,0 +1,33 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-size: xx-large;
+}
+
+form{
+    display: flex;
+    flex-wrap: wrap;
+}
+div{
+  
+    width: 400px;
+    height: 400px;
+}
+input{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(59, 89, 255);
+    border:1px black solid;
+}
+
+.result{
+      width: 400px;
+      font-size: 45px;
+      overflow: hidden;
+}
+.fir:hover{
+    background-color:  rgb(20, 55, 255);
+
+}
